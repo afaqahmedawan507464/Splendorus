@@ -1,0 +1,2223 @@
+@media screen and (min-width:951px) and (max-width:1150px){
+  /* navigationbararea */
+  .companyname h1 {
+    font-size: 1.5rem;
+    padding: 10px 8px;
+    /* border: 2px solid red; */
+  }
+  .companyname p {
+    font-size: 0.7rem;
+    text-align: start;
+    margin-left: 10px;
+  }
+  .navigationbar nav ul li span a {
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 95px 20px 21px 20px;
+    color: black;
+    font-size: 1rem;
+    /* border: 2px solid black; */
+    border-bottom-right-radius: 20px;
+  }
+  .navigationbar nav ul li span a:hover {
+    padding: 95px 20px 21px 20px;
+  }
+  .btns {
+    display: none;
+  }
+  .slidersectiondata {
+    width: 100%;
+    /* border: 2px solid red; */
+  }
+  .sliderdatas {
+    padding: 5px 7px;
+    width: 50%;
+    /* border: 2px solid red; */
+  }
+  .sliderdatas h1 {
+    font-size: 2rem;
+    width: 100%;
+    text-align: start;
+    padding: 4% 0%;
+  }
+  .sliderdatas p {
+    font-size: 0.8rem;
+    width: 100%;
+    text-align: start;
+    padding-bottom: 4%;
+  }
+  .circuilshapeimage {
+    padding: 10px 30px;
+    margin: 0px 20px;
+    /* border: 2px solid red; */
+  }
+  .sliderparent {
+    width: 90%;
+  }
+  .leftarrowbutton{
+    font-size: 3rem;
+    padding: 3% 1%;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 2px solid white;
+    background-color: white;
+    width: 10%;
+    cursor: pointer;
+    /* font-weight: bold; */
+  }
+ .leftarrowbutton:hover{
+    font-size: 3rem;
+    padding: 3% 1%;
+    color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 10%;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .rightarrowbutton{
+    font-size: 3rem;
+    padding: 3% 1%;
+    color: black;
+    display: flex;
+    border: 2px solid white;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 10%;
+    cursor: pointer;
+  }
+  .rightarrowbutton:hover{
+    font-size: 3rem;
+    padding: 3% 1%;
+    color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 10%;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .sliderdatas {
+    padding: 5px 7px;
+    width: 100%;
+  }
+  .sliderdatas h1 {
+    font-size: 1.5rem;
+  }
+  .sliderdatas p {
+    font-size: 0.7rem;
+  }
+  .circuilshapeimage {
+    padding: 10px 30px;
+    margin: 0px 20px;
+  }
+  .circuilshapeimage img {
+    height: 320px;
+    width: 320px;
+  }
+  .dropdownmenu{
+    display: none;
+  }
+  .productheadingcontainer {
+    width: 95%;
+  }
+  .productparentcontainer {
+    width: 92%;
+    margin: auto;
+  }
+  .productcards img {
+    height: 150px;
+    width: 170px;
+  }
+  .productcards h2 {
+    background-color: transparent;
+    font-size: 1rem;
+    /* padding: 5px 0px; */
+  }
+  .productcards p {
+    background-color: transparent;
+    font-size: 0.7rem;
+  }
+  .blogandaboutcontainer {
+    width: 92%;
+  }
+  .blogsparentcontainer {
+    width: 66%;
+  }
+  .blogsitems {
+    width: 90%;
+  }
+  .blogs {
+    width: 28%;
+    padding: 10px 10px;
+    margin: 0px 5px;
+  }
+  .blogs img {
+    width: 150px;
+  }
+  .blogs h1 {
+    font-size: 1.2rem;
+    width: 100%;
+  }
+  .blogs p {
+    font-size: 0.7rem;
+    width: 100%;
+  }
+  .blogheadingsection {
+    width: 95%;
+  }
+  .aboutparentdatas {
+    /* display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; */
+    /* border: 2px solid red; */
+    width: 80%;
+  }
+  .aboutusparenttableheadingsection {
+    width: 85%;
+  }
+  .aboutdatas {
+    margin: 0px 0px;
+  }
+  .aboutuserinformation h3 {
+    font-size: 1rem;
+  }
+  .aboutuserinformation a {
+    font-size: 0.9rem;
+  }
+  .aboutuserinformation a:hover {
+    font-size: 0.9rem;
+  }
+  .footer {
+    width: 95%;
+  }
+  .tweetersection p {
+    font-size: 0.7rem;
+  }
+  .tweetersection a {
+    font-size: 0.9rem;
+  }
+  .tweetersection a:hover {
+    font-size: 0.9rem;
+  }
+}
+/* ============================== */
+@media screen and (min-width:768px) and (max-width:950px){
+  /* navigationbararea */
+  .companyname {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 1px;
+    width: 20%;
+    margin-left: 24px;
+  }
+  .companyname h1 {
+    font-size: 1.7rem;
+    padding: 10px 8px;
+  }
+  .companyname p {
+    font-size: 0.7rem;
+    text-align: center;
+  }
+  .navigationbar {
+    display: none;
+  }
+  .btns {
+    display: block;
+  }
+  .menubutton{
+    height: 50px;
+    width: 100px;
+    cursor: pointer;
+    display: block !important;
+  }
+  .dropdownmenu{
+    display: block;
+    width: 50%;
+    margin-left: 35%;
+  }
+  .dropdownmenu nav ul li span a {
+    width: 300px;
+  }
+  .dropdownmenu nav ul li span a:hover {
+    width: 300px;
+  }
+  .cross{
+    position: relative;
+    margin-left: 95%;
+    margin-bottom: 2%;
+  }
+  /* ======================== */
+  .slidersectiondata {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 96%;
+    border-bottom: 1px solid gray;
+    padding: 25px 8px;
+  }
+  .leftarrowbutton{
+    font-size: 3rem;
+    padding: 3% 1%;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 2px solid white;
+    background-color: white;
+    width: 10%;
+    cursor: pointer;
+    /* font-weight: bold; */
+  }
+ .leftarrowbutton:hover{
+    font-size: 3rem;
+    padding: 3% 1%;
+    color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 10%;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .rightarrowbutton{
+    font-size: 3rem;
+    padding: 3% 1%;
+    color: black;
+    display: flex;
+    border: 2px solid white;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 10%;
+    cursor: pointer;
+  }
+  .rightarrowbutton:hover{
+    font-size: 3rem;
+    padding: 3% 1%;
+    color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 10%;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .sliderdata {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+  }
+  .sliderdatas {
+    width: 96%;
+  }
+  .circuilshapeimage {
+    width: 96%;
+    /* border: 2px solid red; */
+  }
+  .circuilshapeimage img {
+    height: 300px;
+    width: 300px;
+    /* border: 20px solid purple;
+    border-radius: 50%; */
+  }
+  .productparentcontainer {
+    padding: 25px 0px;
+    width: 100%;
+    /* border: 2px solid grey; */
+  }
+  .blogsitems {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    /* border: red solid 2px; */
+    /* height: 100%; */
+    flex-wrap: wrap;
+  }
+  .blogs {
+    width: 30%;
+    padding: 10px 0px;
+    margin: 0px 10px;
+  }
+  .blogs img {
+    width: 225px;
+  }
+  .blogandaboutcontainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 95%;
+    /* border: 2px solid orange; */
+    padding: 10px 5px;
+  }
+  .blogsparentcontainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    /* border: black solid 2px; */
+  }
+  .aboutuserinformation h3 {
+    color: gray;
+    width: 100%;
+    font-size: 1rem;
+    text-align: start;
+  }
+  aboutuserinformation p {
+    color: black;
+    width: 100%;
+    font-size: 0.5rem;
+    text-align: start;
+  }
+  .aboutuserinformation a {
+    color: purple;
+    width: 100%;
+    font-size: 0.8rem;
+    text-align: start;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  .aboutuserinformation a:hover {
+    color: gray;
+    width: 100%;
+    font-size: 0.8rem;
+    text-align: start;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  .aboutparentdatas {
+    flex-direction: row;
+    width: 90%;
+  }
+  .border {
+    width: 0%;
+    border-bottom: 1px solid gray;
+  }
+  .imagecontainer img {
+    height: 100px;
+    width: 70px;
+  }
+  .footer1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px 0px;
+    width: 100%;
+    flex-wrap: wrap;
+  
+  }
+  .tweetersection {
+    padding: 10px 5px;
+    width: 64%;
+    margin: 10px 0px;
+  }
+  .tweetersection h1 {
+    font-size: 1.2rem;
+    width: 100%;
+    color: black;
+    text-align: start;
+    padding: 6px 0px;
+  }
+  .tweetersection h3 {
+    font-size: 0.9rem;
+    width: 100%;
+    color: black;
+    text-align: start;
+    padding: 2px 0px;
+  }
+  .tweetersection p {
+    font-size: 0.65rem;
+    width: 100%;
+    color: black;
+    text-align: start;
+    padding: 1% 0%;
+  }
+  .tweetersection a {
+    font-size: 0.9rem;
+    width: 100%;
+    color: purple;
+    text-align: end;
+    padding: 0.5% 0%;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  .tweetersection a:hover {
+    font-size: 0.9rem;
+    width: 100%;
+    color: gray;
+    text-align: end;
+    padding: 0.5% 0%;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  .linksection {
+    display: flex;
+    flex-direction: column;
+    padding: 1% 0.5%;
+    /* border: 2px solid red; */
+    width: 64%;
+    align-items: center;
+    justify-content: center;
+    margin: 1% 0%;
+    flex-wrap: wrap;
+    /* border: 0.3px solid gray; */
+  }
+  .linksection h1 {
+    font-size: 1.2rem;
+    width: 100%;
+    color: black;
+    text-align: start;
+    padding: 3.5% 0%;
+  }
+  .linksection a {
+    font-size: 0.9rem;
+    width: 100%;
+    color: purple;
+    text-align: start;
+    padding: 3.8% 0%;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  .linksection a:hover {
+    font-size: 0.9rem;
+    width: 100%;
+    color: gray;
+    text-align: start;
+    padding: 3.8% 0%;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  .contactussection {
+    display: flex;
+    flex-direction: column;
+    padding: 1% 0.5%;
+    /* border: 2px solid red; */
+    width: 64%;
+    align-items: center;
+    justify-content: center;
+    margin: 1% 0%;
+    flex-wrap: wrap;
+    /* border: 0.3px solid gray; */
+  }
+  .contactussection h1 {
+    font-size: 1.3rem;
+    width: 100%;
+    color: black;
+    text-align: start;
+    padding: 3.5% 0%;
+    margin: 1% 0%;
+  }
+  .contactussection p {
+    width: 100%;
+    font-size: 0.8rem;
+    text-align: start;
+    padding: 0.8% 0%;
+  }
+  .socialmediaarea {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    /* border: 2px solid blue; */
+    margin: 0.4% 0%;
+    padding: 0.8% 0%;
+  }
+  .socialsection {
+    display: flex;
+    flex-direction: column;
+    padding: 1% 0.5%;
+    /* border: 2px solid red; */
+    width: 64%;
+    align-items: center;
+    justify-content: center;
+    margin: 1% 0%;
+    flex-wrap: wrap;
+    /* border: 0.3px solid gray; */
+  }
+  .socialsection h1 {
+    font-size: 1.2rem;
+    width: 100%;
+    color: black;
+    text-align: start;
+    padding: 2.5% 0%;
+  }
+  .sociallogo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+    padding: 6px;
+    background-color: lightgray;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  .socialdata{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    /* border: 2px solid green; */
+    margin: 0px 5px;
+    padding: 1.5px;
+  }
+  .socialdata a {
+    font-size: 1rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: purple;
+    width: 100%;
+    cursor: pointer;
+  }
+  .socialdata a:hover {
+    font-size: 1rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: gray;
+    width: 100%;
+    cursor: pointer;
+  }
+  .footerdivderborder {
+    border: 1px solid gray;
+    width: 98%;
+  }
+  .footer2 p {
+    font-size: 1rem;
+    width: 98%;
+    text-align: center;
+  }
+}
+/* ================================ */
+/* ============================== */
+@media screen and (min-width:550px) and (max-width:767px){
+  /* navigationbararea */
+  .companyname {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 1px;
+    width: 30%;
+    margin-left: 40px;
+  }
+  .companyname h1 {
+    font-size: 1.5rem;
+    padding: 10px 8px;
+  }
+  .companyname p {
+    font-size: 0.7rem;
+    text-align: start;
+    margin-left: 10px;
+  }
+  .navigationbar {
+    display: none;
+  }
+  .btns {
+    display: block;
+    margin-right: 50px;
+    /* border: 2px solid red; */
+  }
+  .menubutton{
+    height: 50px;
+    width: 100px;
+    cursor: pointer;
+    display: block !important;
+  }
+  .dropdownmenu{
+    display: inline-block;
+    width: 80%;
+    margin-left: 30px;
+  }
+  .dropdownmenu nav ul li span a {
+    width: 350px;
+    padding: 15px 15px 15px 15px;
+  }
+  .dropdownmenu nav ul li span a:hover {
+    width: 350px;
+    padding: 15px 15px 15px 15px;
+  }
+  .cross{
+    position: relative;
+    margin-left: 95%;
+    margin-bottom: 2%;
+  }
+  /* ======================== */
+  .slidersectiondata {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 96%;
+    border-bottom: 1px solid gray;
+    padding: 5% 0.5%;
+  }
+  .leftarrowbutton{
+    font-size: 3rem;
+    padding: 3% 1%;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 2px solid white;
+    background-color: white;
+    width: 10%;
+    cursor: pointer;
+    /* font-weight: bold; */
+  }
+ .leftarrowbutton:hover{
+    font-size: 3rem;
+    padding: 3% 1%;
+    color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 10%;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .rightarrowbutton{
+    font-size: 3rem;
+    padding: 3% 1%;
+    color: black;
+    display: flex;
+    border: 2px solid white;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 10%;
+    cursor: pointer;
+  }
+  .rightarrowbutton:hover{
+    font-size: 3rem;
+    padding: 3% 1%;
+    color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 10%;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .sliderdata {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+  }
+  .leftarrowbutton {
+    font-size: 1.5rem;
+    padding: 3% 1%;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 5%;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .leftarrowbutton:hover {
+    font-size: 1.5rem;
+    padding: 3% 1%;
+    color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 5%;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .rightarrowbutton {
+    font-size: 1.5rem;
+    padding: 3% 1%;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 5%;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .rightarrowbutton:hover {
+    font-size: 1.5rem;
+    padding: 3% 1%;
+    color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 5%;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .circuilshapeimage {
+    /* border: 2px solid black; */
+    width: 90%;
+  }
+  .circuilshapeimage img {
+    height: 250px;
+    width: 250px;
+    border: 20px solid purple;
+    border-radius: 50%;
+  }
+  .sliderdatas {
+    width: 90%;
+  }
+  .sliderdatas h1 {
+    font-size: 1.2rem;
+    width: 100%;
+    padding: 15px 0px;
+  }
+  .sliderdatas p {
+    font-size: 0.7rem;
+    width: 100%;
+    text-align: start;
+    padding-bottom: 4%;
+  }
+  .productheadingcontainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    border-top: 1px solid gray;
+    width: 64%;
+    padding-top: 20px;
+    margin: 0px 95px;
+  }
+  .productparentcontainer {
+    flex-direction: column;
+    padding: 25px 0px;
+    width: 50%;
+    /* border: 2px solid grey; */
+  }
+  .blogheadingsection {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    border-top: 1px solid gray;
+    width: 64%;
+    padding-top: 20px;
+  }
+  .blogsitems {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    /* border: red solid 2px; */
+    height: 100%;
+  }
+  .blogandaboutcontainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 99%;
+    /* border: 2px solid orange; */
+    padding: 15px 7px;
+  }
+  .blogsparentcontainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    /* border: black solid 2px; */
+  }
+  .blogs {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    flex-wrap: wrap;
+    padding: 15px 0px;
+    margin: 0px 5px;
+  }
+  .blogs img {
+    width: 300px;
+    height: 150px;
+  }
+  .blogs h1 {
+    font-size: 1.5rem;
+    color: purple;
+    width: 55%;
+    text-align: start;
+    padding: 10px 0px;
+  }
+  .blogs p {
+    font-size: 0.9rem;
+    color: black;
+    width: 55%;
+    text-align: start;
+    padding: 5px 0px;
+  }
+  .aboutusparenttableheadingsection {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    border-top: 1px solid gray;
+    width: 64%;
+    padding-top: 20px;
+    margin:0px 95px;
+  }
+  .aboutparentdatas {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    /* border: 2px solid red; */
+    width: 64%;
+    margin:0px 85px;
+  }
+  .footer1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 5% 0%;
+    width: 70%;
+    flex-wrap: wrap;
+    /* border: 2px solid blue; */
+    margin:0% 16%;
+  }
+  .tweetersection {
+    display: flex;
+    flex-direction: column;
+    padding: 4% 0.5%;
+    /* border: 2px solid red; */
+    width: 64%;
+    align-items: center;
+    justify-content: center;
+    margin: 4% 0%;
+    /* border: 0.3px solid gray; */
+  }
+  .linksection {
+    display: flex;
+    flex-direction: column;
+    padding: 4% 0.5%;
+    /* border: 2px solid red; */
+    width: 64%;
+    align-items: center;
+    justify-content: center;
+    margin: 4% 0%;
+    flex-wrap: wrap;
+    /* border: 0.3px solid gray; */
+  }
+  .contactussection {
+    display: flex;
+    flex-direction: column;
+    padding: 4% 0.5%;
+    /* border: 2px solid red; */
+    width: 64%;
+    align-items: center;
+    justify-content: center;
+    margin: 4% 0%;
+    flex-wrap: wrap;
+    /* border: 0.3px solid gray; */
+  }
+  .socialsection {
+    display: flex;
+    flex-direction: column;
+    padding: 4% 0.5%;
+    /* border: 2px solid red; */
+    width: 64%;
+    align-items: center;
+    justify-content: center;
+    margin: 4% 0%;
+    flex-wrap: wrap;
+    /* border: 0.3px solid gray; */
+  }
+  .footer2 {
+    display: flex;
+    flex-direction: column;
+    padding: 1% 0.5%;
+    /* border: 2px solid black; */
+    width: 64%;
+    align-items: center;
+    justify-content: center;
+    margin: 0% 18%;
+  }
+  .footer2 p {
+    font-size: 0.8rem;
+    width: 100%;
+    text-align: center;
+  }
+}
+/* ================================ */
+@media screen and (min-width:480px) and (max-width:549px){
+  /* navigationbararea */
+  .companyname {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 1px;
+    width: 30%;
+    margin-left: 40px;
+  }
+  .companyname h1 {
+    font-size: 1.5rem;
+    padding: 10px 8px;
+  }
+  .companyname p {
+    font-size: 0.7rem;
+    text-align: start;
+    margin-left: 10px;
+  }
+  .navigationbar {
+    display: none;
+  }
+  .btns {
+    display: block;
+    margin-right: 60px;
+  }
+  .menubutton{
+    height: 50px;
+    width: 100px;
+    cursor: pointer;
+    display: block !important;
+  }
+  .dropdownmenu{
+    display: inline-block;
+    width: 80%;
+    margin-left: 25px;
+  }
+  .dropdownmenu nav ul li span a {
+    width: 300px;
+    padding: 18px;
+  }
+  .dropdownmenu nav ul li span a:hover {
+    width: 300px;
+    padding: 18px;
+  }
+  .cross{
+    position: relative;
+    margin-left: 95%;
+    margin-bottom: 2%;
+  }
+  .slidersectiondata {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 96%;
+    border-bottom: 1px solid gray;
+    padding: 5% 0.5%;
+  }
+  .sliderdata {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+  }
+  .sliderdatas {
+    width: 80%;
+    /* border:2px solid red; */
+  }
+  .leftarrowbutton {
+    font-size: 1.5rem;
+    padding: 3% 1%;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 5%;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .leftarrowbutton:hover {
+    font-size: 1.5rem;
+    padding: 3% 1%;
+    color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 5%;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .rightarrowbutton {
+    font-size: 1.5rem;
+    padding: 3% 1%;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 5%;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .rightarrowbutton:hover {
+    font-size: 1.5rem;
+    padding: 3% 1%;
+    color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 5%;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .circuilshapeimage {
+    width: 80%;
+    margin: 0px 1px;
+    /* border: 2px solid red; */
+  }
+  .circuilshapeimage img {
+    height: 250px;
+    width: 250px;
+    border: 20px solid purple;
+    border-radius: 50%;
+  }
+  .sliderdatas h1 {
+    font-size: 1.2rem;
+    width: 100%;
+    text-align: start;
+    padding: 25px 0px;
+  }
+  .sliderdatas p {
+    font-size: 0.7rem;
+    width: 100%;
+    text-align: start;
+    padding-bottom: 4%;
+  }
+  .productheadingcontainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    border-top: 1px solid gray;
+    width: 64%;
+    padding-top: 20px;
+    margin: 0px 95px;
+  }
+  .productparentcontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding: 25px 0px;
+    width: 100%;
+    /* border: 2px solid grey; */
+  }
+  .blogheadingsection {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    border-top: 1px solid gray;
+    width: 64%;
+    padding-top: 20px;
+  }
+  .blogsitems {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    /* border: red solid 2px; */
+    height: 100%;
+  }
+  .blogandaboutcontainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 99%;
+    /* border: 2px solid orange; */
+    padding: 3% 0.5%;
+  }
+  .blogsparentcontainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    /* border: black solid 2px; */
+  }
+  .blogs {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    flex-wrap: wrap;
+    padding: 2% 0%;
+    margin: 0% 0.5%;
+  }
+  .blogs img {
+    width: 300px;
+    height: 150px;
+  }
+  .blogs h1 {
+    font-size: 1.5rem;
+    color: purple;
+    width: 64%;
+    text-align: start;
+    padding: 10px 0px;
+  }
+  .blogs p {
+    font-size: 0.9rem;
+    color: black;
+    width: 64%;
+    text-align: start;
+    padding: 5px 0px;
+  }
+  .aboutusparenttableheadingsection {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    border-top: 1px solid gray;
+    width: 64%;
+    padding-top: 20px;
+    margin:0px 95px;
+  }
+  .aboutparentdatas {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    /* border: 2px solid red; */
+    width: 66%;
+    margin:0% 18%;
+  }
+  .footer1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 5% 0%;
+    width: 70%;
+    flex-wrap: wrap;
+    /* border: 2px solid blue; */
+    margin:0% 16%;
+  }
+  .tweetersection {
+    display: flex;
+    flex-direction: column;
+    padding: 4% 0.5%;
+    /* border: 2px solid red; */
+    width: 64%;
+    align-items: center;
+    justify-content: center;
+    margin: 4% 0%;
+    /* border: 0.3px solid gray; */
+  }
+  .linksection {
+    display: flex;
+    flex-direction: column;
+    padding: 4% 0.5%;
+    /* border: 2px solid red; */
+    width: 64%;
+    align-items: center;
+    justify-content: center;
+    margin: 4% 0%;
+    flex-wrap: wrap;
+    /* border: 0.3px solid gray; */
+  }
+  .contactussection {
+    display: flex;
+    flex-direction: column;
+    padding: 4% 0.5%;
+    /* border: 2px solid red; */
+    width: 64%;
+    align-items: center;
+    justify-content: center;
+    margin: 4% 0%;
+    flex-wrap: wrap;
+    /* border: 0.3px solid gray; */
+  }
+  .socialsection {
+    display: flex;
+    flex-direction: column;
+    padding: 4% 0.5%;
+    /* border: 2px solid red; */
+    width: 64%;
+    align-items: center;
+    justify-content: center;
+    margin: 4% 0%;
+    flex-wrap: wrap;
+    /* border: 0.3px solid gray; */
+  }
+  .footer2 {
+    display: flex;
+    flex-direction: column;
+    padding: 1% 0.5%;
+    /* border: 2px solid black; */
+    width: 64%;
+    align-items: center;
+    justify-content: center;
+    margin: 0% 18%;
+  }
+  .footer2 p {
+    font-size: 0.8rem;
+    width: 100%;
+    text-align: center;
+  }
+}
+/* ================================ */
+@media screen and (min-width:390px) and (max-width:479px){
+  /* navigationbararea */
+  .companyname {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 1px;
+    width: 30%;
+    margin-left: 40px;
+  }
+  .companyname h1 {
+    font-size: 1.5rem;
+    padding: 5px 8px;
+  }
+  .companyname p {
+    font-size: 0.7rem;
+    text-align: start;
+    margin-left: 10px;
+  }
+  .navigationbar {
+    display: none;
+  }
+  .btns {
+    display: block;
+    margin-right: 60px;
+  }
+  .menubutton{
+    height: 50px;
+    width: 100px;
+    cursor: pointer;
+    display: block !important;
+  }
+  .dropdownmenu{
+    display: inline-block;
+    width: 80%;
+    margin-left: 20px;
+  }
+  .dropdownmenu nav ul li span a {
+    width: 250px;
+    padding: 15px 15px 15px 15px;
+  }
+  .dropdownmenu nav ul li span a:hover {
+    width: 250px;
+    padding: 15px 15px 15px 15px;
+  }
+  .cross{
+    position: relative;
+    margin-left: 95%;
+    margin-bottom: 2%;
+  }
+  /* ======================== */
+  .slidersectiondata {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 85%;
+    border-bottom: 1px solid gray;
+    padding: 5% 0.5%;
+  }
+  .sliderparent {
+    width: 85%;
+    /* border: 2px solid red; */
+  }
+  .leftarrowbutton{
+    font-size: 3rem;
+    padding: 3% 1%;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 2px solid white;
+    background-color: white;
+    width: 10%;
+    cursor: pointer;
+    /* font-weight: bold; */
+  }
+ .leftarrowbutton:hover{
+    font-size: 3rem;
+    padding: 3% 1%;
+    color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 10%;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .rightarrowbutton{
+    font-size: 3rem;
+    padding: 3% 1%;
+    color: black;
+    display: flex;
+    border: 2px solid white;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 10%;
+    cursor: pointer;
+  }
+  .rightarrowbutton:hover{
+    font-size: 3rem;
+    padding: 3% 1%;
+    color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 10%;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .sliderdata {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    /* border: 2px solid red; */
+  }
+  .sliderdatas {
+    width: 80%;
+    /* border:2px solid red */
+  }
+  .sliderdatas button {
+    font-size: 0.7rem;
+    width: 55%;
+    text-align: center;
+    align-self: flex-start;
+    font-weight: bold;
+    padding: 5% 7%;
+    border: 2px solid purple;
+    background-color: purple;
+    color: white;
+    border-radius: 15px;
+    cursor: pointer;
+    width: 95%;
+  }
+  .sliderdatas button:hover {
+    font-size: 0.7rem;
+    width: 55%;
+    text-align: center;
+    align-self: flex-start;
+    font-weight: bold;
+    padding: 5% 7%;
+    border: 2px solid purple;
+    background-color: white;
+    color: purple;
+    border-radius: 15px;
+    cursor: pointer;
+    width: 95%;
+  }
+  .leftarrowbutton {
+    font-size: 1.5rem;
+    padding: 3% 1%;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 5%;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .leftarrowbutton:hover {
+    font-size: 1.5rem;
+    padding: 3% 1%;
+    color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 5%;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .rightarrowbutton {
+    font-size: 1.5rem;
+    padding: 3% 1%;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 5%;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .rightarrowbutton:hover {
+    font-size: 1.5rem;
+    padding: 3% 1%;
+    color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 5%;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .circuilshapeimage {
+    width: 80%;
+    /* border: 2px solid red; */
+    margin: 0px 5px;
+  }
+  .circuilshapeimage img {
+    height: 150px;
+    width: 150px;
+    border: 10px solid purple;
+    border-radius: 50%;
+  }
+  .sliderdatas h1 {
+    font-size: 1.2rem;
+    width: 100%;
+    text-align: start;
+    padding: 4% 0%;
+  }
+  .sliderdatas p {
+    font-size: 0.7rem;
+    width: 100%;
+    text-align: start;
+    padding-bottom: 4%;
+  }
+  .productheadingcontainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    border-top: 1px solid gray;
+    width: 64%;
+    padding-top: 10%;
+    margin: 0% 18%;
+  }
+  .productparentcontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding: 5% 0%;
+    width: 100%;
+    flex-wrap: wrap;
+    /* border: 2px solid grey; */
+  }
+  .blogheadingsection {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    border-top: 1px solid gray;
+    width: 64%;
+    padding-top: 10%;
+  }
+  .blogsitems {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    /* border: red solid 2px; */
+    height: 100%;
+  }
+  .blogandaboutcontainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 99%;
+    /* border: 2px solid orange; */
+    padding: 3% 0.5%;
+  }
+  .blogsparentcontainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    /* border: black solid 2px; */
+  }
+  .blogs {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    flex-wrap: wrap;
+    padding: 2% 0%;
+    margin: 0% 0.5%;
+  }
+  .blogs img {
+    width: 250px;
+    height: 150px;
+  }
+  .blogs h1 {
+    font-size: 1.5rem;
+    color: purple;
+    width: 64%;
+    text-align: start;
+    padding: 10px 0px;
+  }
+  .blogs p {
+    font-size: 0.9rem;
+    color: black;
+    width: 64%;
+    text-align: start;
+    padding: 5px 0px;
+  }
+  .aboutusparenttableheadingsection {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    border-top: 1px solid gray;
+    width: 64%;
+    padding-top: 10%;
+    margin:0% 18%;
+  }
+  .aboutparentdatas {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    /* border: 2px solid red; */
+    width: 66%;
+    margin:0% 18%;
+  }
+  .footer1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 5% 0%;
+    width: 70%;
+    flex-wrap: wrap;
+    /* border: 2px solid blue; */
+    margin:0% 16%;
+  }
+  .tweetersection {
+    display: flex;
+    flex-direction: column;
+    padding: 4% 0.5%;
+    /* border: 2px solid red; */
+    width: 90%;
+    align-items: center;
+    justify-content: center;
+    margin: 4% 0%;
+    /* border: 0.3px solid gray; */
+  }
+  .linksection {
+    display: flex;
+    flex-direction: column;
+    padding: 4% 0.5%;
+    /* border: 2px solid red; */
+    width: 64%;
+    align-items: center;
+    justify-content: center;
+    margin: 4% 0%;
+    flex-wrap: wrap;
+    /* border: 0.3px solid gray; */
+  }
+  .contactussection {
+    display: flex;
+    flex-direction: column;
+    padding: 4% 0.5%;
+    /* border: 2px solid red; */
+    width: 90%;
+    align-items: center;
+    justify-content: center;
+    margin: 4% 0%;
+    flex-wrap: wrap;
+    /* border: 0.3px solid gray; */
+  }
+  .socialsection {
+    display: flex;
+    flex-direction: column;
+    padding: 4% 0.5%;
+    /* border: 2px solid red; */
+    width: 90%;
+    align-items: center;
+    justify-content: center;
+    margin: 4% 0%;
+    flex-wrap: wrap;
+    /* border: 0.3px solid gray; */
+  }
+  .footer2 {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 5px;
+    /* border: 2px solid black; */
+    width: 64%;
+    align-items: center;
+    justify-content: center;
+    margin: 0% 18%;
+  }
+  .footer2 p {
+    font-size: 0.6rem;
+    width: 100%;
+    text-align: center;
+  }
+}
+/* ================================ */
+@media screen and (min-width:280px) and (max-width:389px){
+  /* navigationbararea */
+  .companyname {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 1px;
+    width: 30%;
+    margin-left: 10px;
+  }
+  .companyname h1 {
+    font-size: 1.2rem;
+    padding: 5px 8px;
+  }
+  .companyname p {
+    font-size: 0.5rem;
+    text-align: start;
+    margin-left: 10px;
+  }
+  .navigationbar {
+    display: none;
+  }
+  .btns {
+    display: block;
+    margin-right: 60px;
+  }
+  .menubutton{
+    height: 50px;
+    width: 100px;
+    cursor: pointer;
+    display: block !important;
+  }
+  .dropdownmenu{
+    display: inline-block;
+    width: 80%;
+    margin-left: 15px;
+  }
+  .dropdownmenu nav ul li span a {
+    width: 150px;
+    padding: 10px 10px 10px 10px;
+  }
+  .dropdownmenu nav ul li span a:hover {
+    width: 150px;
+    padding: 10px 10px 10px 10px;
+  }
+  .cross{
+    position: relative;
+    margin-left: 90%;
+    margin-bottom: 1%;
+  }
+  /* ======================== */
+  .slidersectiondata {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 85%;
+    border-bottom: 1px solid gray;
+    padding: 5% 0.5%;
+  }
+  .sliderparent {
+    width: 85%;
+    /* border: 2px solid red; */
+  }
+  .leftarrowbutton{
+    font-size: 3rem;
+    padding: 3% 1%;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 2px solid white;
+    background-color: white;
+    width: 10%;
+    cursor: pointer;
+    /* font-weight: bold; */
+  }
+ .leftarrowbutton:hover{
+    font-size: 3rem;
+    padding: 3% 1%;
+    color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 10%;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .rightarrowbutton{
+    font-size: 3rem;
+    padding: 3% 1%;
+    color: black;
+    display: flex;
+    border: 2px solid white;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 10%;
+    cursor: pointer;
+  }
+  .rightarrowbutton:hover{
+    font-size: 3rem;
+    padding: 3% 1%;
+    color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 10%;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .sliderdata {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    /* border: 2px solid red; */
+  }
+  .sliderdatas {
+    width: 70%;
+    /* border:2px solid red */
+  }
+  .sliderdatas h1 {
+    font-size: 1rem;
+  }
+  .sliderdatas p {
+    font-size: 0.4rem;
+  }
+  .sliderdatas button {
+    font-size: 0.5rem;
+    width: 100%;
+    text-align: center;
+    align-self: flex-start;
+    font-weight: bold;
+    padding: 5% 7%;
+    border: 2px solid purple;
+    background-color: purple;
+    color: white;
+    border-radius: 15px;
+    cursor: pointer;
+    width: 95%;
+  }
+  .sliderdatas button:hover {
+    font-size: 0.5rem;
+    width: 100%;
+    text-align: center;
+    align-self: flex-start;
+    font-weight: bold;
+    padding: 5% 7%;
+    border: 2px solid purple;
+    background-color: white;
+    color: purple;
+    border-radius: 15px;
+    cursor: pointer;
+    width: 95%;
+  }
+  .leftarrowbutton {
+    font-size: 1.5rem;
+    padding: 3% 1%;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 5%;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .leftarrowbutton:hover {
+    font-size: 1.5rem;
+    padding: 3% 1%;
+    color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 5%;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .rightarrowbutton {
+    font-size: 1.5rem;
+    padding: 3% 1%;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 5%;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .rightarrowbutton:hover {
+    font-size: 1.5rem;
+    padding: 3% 1%;
+    color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 5%;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .circuilshapeimage {
+    width: 70%;
+    /* border: 2px solid red; */
+    margin: 0px 5px;
+  }
+  .circuilshapeimage img {
+    height: 100px;
+    width: 100px;
+    border: 10px solid purple;
+    border-radius: 50%;
+  }
+  .sliderdatas h1 {
+    font-size: 1.2rem;
+    width: 100%;
+    text-align: start;
+    padding: 4% 0%;
+  }
+  .sliderdatas p {
+    font-size: 0.7rem;
+    width: 100%;
+    text-align: start;
+    padding-bottom: 4%;
+  }
+  .productheadingcontainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    border-top: 1px solid gray;
+    width: 64%;
+    padding-top: 10px;
+    margin: 0px 50px;
+  }
+  .productheadingcontainer h1 {
+    color: purple;
+    font-size: 1rem;
+    width: 70%;
+  }
+  .productparentcontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding: 5% 0%;
+    width: 100%;
+    flex-wrap: wrap;
+    /* border: 2px solid grey; */
+  }
+  .productcards {
+    margin: 10px 15px;
+  }
+  .productcards h2 {
+    font-size: 1rem;
+  }
+  .productcards img {
+    height: 180px;
+    width: 180px;
+  }
+  .productcards p {
+    font-size: 0.6rem;
+  }
+  .blogheadingsection {
+    padding-top: 10px;
+    width: 64%;
+  }
+  .blogheadingsection h1 {
+    font-size: 1rem;
+  }
+  .blogsitems {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    /* border: red solid 2px; */
+    height: 100%;
+  }
+  .blogs img {
+    width: 180px;
+    height: 100px;
+  }
+  .blogandaboutcontainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 99%;
+    /* border: 2px solid orange; */
+    padding: 3% 0.5%;
+  }
+  .blogsparentcontainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    /* border: black solid 2px; */
+  }
+  .blogs {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    flex-wrap: wrap;
+    padding: 2% 0%;
+    margin: 0% 0.5%;
+  }
+  .blogs h1 {
+    font-size: 1rem;
+    color: purple;
+    width: 64%;
+    text-align: start;
+    padding: 10px 0px;
+  }
+  .blogs p {
+    font-size: 0.7rem;
+    color: black;
+    width: 64%;
+    text-align: start;
+    padding: 5px 0px;
+  }
+  .aboutusparenttableheadingsection {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    border-top: 1px solid gray;
+    width: 64%;
+    padding-top: 10px;
+    margin:0% 18%;
+  }
+  .aboutusparenttableheadingsection h1 {
+    font-size: 1rem;
+  }
+  .aboutparentdatas {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    /* border: 2px solid red; */
+    width: 66%;
+    margin:0% 18%;
+  }
+  .aboutdatas {
+    flex-direction: column;
+  }
+  .imagecontainer {
+    width: 100%;
+  }
+  .imagecontainer img {
+    height: 150px;
+    width: 160px;
+  }
+  .aboutuserinformation {
+    width: 100%;
+    padding: 6px;
+  }
+  .aboutuserinformation h3 {
+    font-size: 1rem;
+    width: 90%;
+  }
+  .aboutuserinformation p {
+    color: black;
+    width: 90%;
+  }
+  .aboutuserinformation a {
+    color: purple;
+    width: 90%;
+  }
+  .aboutuserinformation a:hover {
+    color: gray;
+    width: 90%;
+  }
+  /* ========================== */
+  .footer1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 5% 0%;
+    width: 70%;
+    flex-wrap: wrap;
+    /* border: 2px solid blue; */
+    margin:0% 16%;
+  }
+  .tweetersection {
+    display: flex;
+    flex-direction: column;
+    padding: 4% 0.5%;
+    /* border: 2px solid red; */
+    width: 90%;
+    align-items: center;
+    justify-content: center;
+    margin: 4% 0%;
+    /* border: 0.3px solid gray; */
+  }
+  .tweetersection h1 {
+    font-size: 1.2rem;
+  }
+  .tweetersection h3 {
+    font-size: 0.8rem;
+  }
+  .tweetersection p {
+    font-size: 0.6rem;
+  }
+  .tweetersection a {
+    font-size: 0.9rem;
+  }
+  .tweetersection a:hover {
+    font-size: 0.9rem;
+  }
+  .linksection {
+    display: flex;
+    flex-direction: column;
+    padding: 4% 0.5%;
+    /* border: 2px solid red; */
+    width: 90%;
+    align-items: center;
+    justify-content: center;
+    margin: 4% 0%;
+    flex-wrap: wrap;
+    /* border: 0.3px solid gray; */
+  }
+  .linksection h1 {
+    font-size: 1.2rem;
+  }
+  .linksection a {
+    font-size: 0.9rem;
+  }
+  .linksection a:hover {
+    font-size: 0.9rem;
+  }
+  .contactussection {
+    display: flex;
+    flex-direction: column;
+    padding: 4% 0.5%;
+    /* border: 2px solid red; */
+    width: 90%;
+    align-items: center;
+    justify-content: center;
+    margin: 4% 0%;
+    flex-wrap: wrap;
+    /* border: 0.3px solid gray; */
+  }
+  .contactussection h1 {
+    font-size: 1.2rem;
+  }
+  .contactussection p {
+    font-size: 0.8rem;
+  }
+  .socialsection {
+    display: flex;
+    flex-direction: column;
+    padding: 4% 0.5%;
+    /* border: 2px solid red; */
+    width: 90%;
+    align-items: center;
+    justify-content: center;
+    margin: 4% 0%;
+    flex-wrap: wrap;
+    /* border: 0.3px solid gray; */
+  }
+  .sociallogo img {
+    height: 20px;
+    width: 20px;
+  }
+  .sociallogo img:hover{
+    transition-timing-function: ease-in-out;
+    transition-duration: 0.8s;
+    transition-delay: 0.5s;
+    background-color: purple;
+    transform: scale(1.2);
+    cursor: pointer;
+  }
+  .socialdata a {
+    font-size: 0.9rem;
+  }
+  .socialdata a:hover {
+    font-size: 0.9rem;
+  }
+  .footer2 {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 5px;
+    /* border: 2px solid black; */
+    width: 64%;
+    align-items: center;
+    justify-content: center;
+    margin: 0% 18%;
+  }
+  .footer2 p {
+    font-size: 0.6rem;
+    width: 80%;
+    text-align: center;
+  }
+}
+/* ================================ */
